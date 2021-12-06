@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958087161781",
+    "project_id": "fir-start-ae3ca",
+    "storage_bucket": "fir-start-ae3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958087161781:android:7455a29bb588cf3dd9dbfc",
+        "android_client_info": {
+          "package_name": "com.example.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958087161781-uijhr35ec5efartafsndd2epfe4bnrqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloOqKCtEVnqXLsozZg5A6n_iJMGGkuwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958087161781-uijhr35ec5efartafsndd2epfe4bnrqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
